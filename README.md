@@ -1,5 +1,11 @@
 # markdown-render-speed-02 — a faster marked-compatible renderer
 
+[![make.fun · markdown-render-speed-02](https://make.fun/badge/markdown-render-speed-02.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![rank](https://make.fun/badge/markdown-render-speed-02/Revaaa28/markdown-render-speed-02/rank.svg)](https://make.fun/bounty/markdown-render-speed-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![reward](https://make.fun/badge/markdown-render-speed-02/Revaaa28/markdown-render-speed-02/reward.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+
+Entry to make.fun's [“Make Markdown rendering faster” bounty](https://make.fun/bounty/markdown-render-speed-02).
+
 `parse.js` is a dependency-free JavaScript module exporting `parse(markdown)`
 that returns, byte for byte, the HTML that marked 18.1.3 renders with its
 default options (GFM on), while using substantially less CPU time than marked
